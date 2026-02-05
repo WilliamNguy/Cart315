@@ -22,3 +22,9 @@ For this week, we started Unity and created are first project. I downloaded ride
 
 ### impression
 My first time using Unity was easy going. I knew it was complex but it wasn't as confusing as i thought it would be. Creating sprites and coding them on rider was easy to understand. 
+
+## Week 3-4
+
+### Overview
+
+This week we dove deeper into the mechanism and functions of the _Catch em all_ game. Learned how to add textboxes and a point system that would react to the game and update the scoreboard at the top of the screen. Although it was a simple yet fun game, it still holds a level of complexity that I haven't gotten used to yet.
