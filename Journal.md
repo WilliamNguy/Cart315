@@ -49,3 +49,13 @@ Creating a new script for powerUps, and in BrickScript.cs i added a powerUp pref
 
 So was it a success?
 Not yet, I'm struggling to get this to work and am continuing to find the solution. But so far I feel good about this prototyping.
+
+## Week 5-6
+
+### Overview
+
+This week in class we started working on a different scene in the Breakout file. Shmup. A scene composing of a rocking ship at sea with birds flapping their wings at the top of the screen. We learned how to animate the birds to make them look like theyre flapping their wings by rotating them back and forth using the animation timeline. It sounds simple and the action of their animtation looked simple but It was quite confusing the first time around. 
+
+### Prototyping
+
+This week's prototyping, I wanted to fix the issue of my last week's prototyping about the power up not showing up. I managed to fix it but i had to go to chatgpt to help me debug some issues. I managed to to make the triangles (power ups) to show up and fall down.
