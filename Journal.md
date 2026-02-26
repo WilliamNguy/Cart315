@@ -86,8 +86,8 @@ NPCs places bets on the 6 images -->> The player shakes the dices -->> The payou
 
 I was thinking that there would be a mandatory 5 second shake window, and another 2 second extra shake window right after. This would be indicated using a timer bar that goes down during the shaking phase to indicate when and how long the player has to shake. I think this its important to give the player a tracking system to keep the player hooked and wanting to play more. The tracking system is a score/money system that keeps track of everyones money. And the gols is to exhaust them until they have no money to their name.
 
-![Prototype Sketch](images/IMG_8177.jpeg)
+![Prototype Sketch]
 <img src="images/IMG_8177.jpeg" width="500">
-![Prototype Sketch](images/IMG_8178.jpeg)
+![Prototype Sketch]
 <img src="images/IMG_8178.jpeg" width="500">
 
