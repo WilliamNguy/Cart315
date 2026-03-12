@@ -90,3 +90,20 @@ I was thinking that there would be a mandatory 5 second shake window, and anothe
 <img src="images/IMG_8177.jpeg" width="500">
 <img src="images/IMG_8178.jpeg" width="500">
 
+## Week 8-9
+
+### Overview
+
+For the second stage of my prototyping process, I wanted to start testing out the different possible mechanics of the dice in my game. During the reading week, I though long and hard about how I will be able to bring this game to reality with just basic knowledge of Unity. I guess the questions that I needed answers to the most are implementations rather than visuals. I wanted to know whether I can create a working dice system in Unity that feels believable, free, and real while still holding a certain level of simplicity to it. For this week, I focused on searching on youtube for a good and solid tutorials to guid me through the process of building a working dice in Unity.
+
+Reading week
+- Found this video from youtube for the dice: https://www.youtube.com/watch?v=0-v4CbuJ5jI
+- Easy, straight to the point.
+- I just realized that almost all the videos/tutorial on youtube show a click mechanic for the dice. So there isn't any free movement to shake the dice. Since I haven't learned 3d yet I'm starting worry.
+- Tutorial was a success but I'm now considering changing the overall mechanics of the games.
+
+My initial idea was too big. NPC suspicion/detection, reations/emotions, the whole 3d scene with 3d charaters and money, advanced cheating mechanics, etc. These are all too complicated. I should build the main core mechanics first. 
+
+After completing the dice tutorials, I realized that focusing on one mechanic at a time makes the project feel less overwhelming. Sometimes thinking about the whole project could be alot. If I could just single out each part at a time and take it one step at a time it would make the journey more easy and enjoyable. 
+
+Took a break from unity and turned to Blender to create some assets. I saw tht you can easily bring Blender files into unity to used as assets so I was excited to create some models. I currently have a class on Blender so I wanted to put my knowledge to the test. I created a board with the Fish, Prawn, Crab images. I also made the three dices with the six different images on each faces. 
