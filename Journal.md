@@ -107,3 +107,13 @@ My initial idea was too big. NPC suspicion/detection, reations/emotions, the who
 After completing the dice tutorials, I realized that focusing on one mechanic at a time makes the project feel less overwhelming. Sometimes thinking about the whole project could be alot. If I could just single out each part at a time and take it one step at a time it would make the journey more easy and enjoyable. 
 
 Took a break from unity and turned to Blender to create some assets. I saw tht you can easily bring Blender files into unity to used as assets so I was excited to create some models. I currently have a class on Blender so I wanted to put my knowledge to the test. I created a board with the Fish, Prawn, Crab images. I also made the three dices with the six different images on each faces. 
+
+## Week 9-10
+
+### Overview
+
+Got really sick... 
+
+After struggling with my Vietnamese dice game, I decided to change completely the scope of the game. Since I could barely sleep at night due to the pain, I took a lot of naps during the day. And suddenly I had this idea. Its a simple game but I realized how everytime I thought about a game, my first thought always goes back to the first time i discovered gaming. I was 6 years old when my dad came home and decided that I would get a gift that day. It was a DS zelda edition. So my first game was _Zelda: Phantom Hourglass_. The top down view was one of the most stand out feature for me. I was always used to playing 2d web browser games. And I think its because of zelda that I got this idea for a my game. A top down view game about a food deliver guy having to deliver to various locations throughout the city. But he picked up this job during the great Covid times. And he can only work late due to school. So he has to sneak out and deliver food without being caught by anyone, especially not by the authorities because of the curfew. I couldn't do much during the whole of this last week. So I will be doing much more this week.
+
+
