@@ -116,4 +116,26 @@ Got really sick...
 
 After struggling with my Vietnamese dice game, I decided to change completely the scope of the game. Since I could barely sleep at night due to the pain, I took a lot of naps during the day. And suddenly I had this idea. Its a simple game but I realized how everytime I thought about a game, my first thought always goes back to the first time i discovered gaming. I was 6 years old when my dad came home and decided that I would get a gift that day. It was a DS zelda edition. So my first game was _Zelda: Phantom Hourglass_. The top down view was one of the most stand out feature for me. I was always used to playing 2d web browser games. And I think its because of zelda that I got this idea for a my game. A top down view game about a food deliver guy having to deliver to various locations throughout the city. But he picked up this job during the great Covid times. And he can only work late due to school. So he has to sneak out and deliver food without being caught by anyone, especially not by the authorities because of the curfew. I couldn't do much during the whole of this last week. So I will be doing much more this week.
 
+## Week 11-12
+
+### Overview
+
+This week, I created a new 2D built-in render pipeline project to make my prototype. I took some CC0 character sprites and animations to test out the movement.
+
+Monday: I added a red mushroom character to the scene. 
+
+One of the things I learned in the tutorials is how to edit the sprite image and slice it up into 32x32 sections, since the sprite image contains multiple different frames of the character. By slicing it up, I now have multiple variations of the character, which I can then use to make an idle animation or a running animation. The process is fun, but more complex than I thought. I will not be implementing the animations yet. Right now, I just want to make my character move. So I created a Rigidbody2D and added a script for the character. I also added Player Input so that we can control the player using the WASD keys and the arrow keys. Everything so far went smoother than I thought. I always feel like Unity is so complicated, but making the movement was easy so far.
+
+Tuesday: The next step for me is to create an idle animation and a running animation. 
+
+Right now, I am still using a CC0 character sprite I found online, so all of this is just for testing. Once I feel like it is solid, I will then implement my custom-made sprites. For the animation, I added a folder in Assets called Animations and then dragged all the images and variations of the character into it, some for idle and some for walking. Once I opened the Animator window and added in the Blend Tree, I quickly realized how much more complex it was. I can create as many directional parameters as I want. So that means I can make a sprite with 8 directional variations for idling or walking. For now, I added all 8, but my sprite only has 2 since it is just a prototype. I am hoping that with the 8 directions already set up, I can come back and replace the current sprite with my custom sprite later. Once I connected all the animations and played around with the timeline, I connected the idle to the walk using transitions.
+
+Wednesday: Today I downloaded a CC0 tileset that I want to test. 
+
+I saw in a video that we can import tilesets and make each tile react differently to the player. So I imported two tilesets and then edited the sprites by slicing them up by cells, each 16x16, to turn the whole tileset PNG into small custom tiles. Once that was done, I created 2D Object > Tilemap > Rectangular for the map. There was a tutorial that showed me how to make different types of layers, for example one for the ground, one for walking in front, one for collision, one for walking behind, and one for decorations. Once I created the 5 different types of tile layers, I started custom-making the prototype map. I added the floor in the Ground tab, then switched to the WalkInFront tab to add the stairs, and then switched to the Collision tab to add light poles and fences. This was all new to me 2 hours ago, and now it feels really relaxing to do. There was one issue that I could not fix for a good hour, and it was when the player would collide with an object, the character would start to rotate. So I tested the prototype with that issue until I realized that I had to check the constraints for rotation for the player in Rigidbody2D.
+
+<img src="images/week11.png" width="500">
+
+
+Overall, the prototype feels like it is coming together, and it has some sort of vision coming to life.
 
