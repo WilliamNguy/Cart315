@@ -139,3 +139,29 @@ I saw in a video that we can import tilesets and make each tile react differentl
 
 Overall, the prototype feels like it is coming together, and it has some sort of vision coming to life.
 
+For this journal,
+
+This week, I kept building the prototype for my top-down pixel art delivery game. The main thing I want to work on this week is try and create a working delivery system and starting to figure out how I want to implement the police spotlight. I wanted to make a npc police system but for the timeframe that I have, I quickly realized that it wouldn't be possible.
+
+Friday: First, to create this system, I want to make it as simple to make as possible without lowering the quality of my prototype. So a sprite that pops up at a random but set location would be the delivery point. And everytime the player comes in contact with said sprite, the location changes and another one pops up. So I made a few possible drop-off points around the map and then used a script to randomly choose one of them. To make it easy for myself, I made the delivery location with a simple dot that appears on one of the points. The player has to move onto it and collide with it to complete the delivery. Once the player collides with it, the score increases and the dot moves to another random location. I was surprised that this part was easier than I thought. At first, I had some issues with the dot not appearing, but after fixing the sprite renderer, sorting layer, and checking that it was assigned properly in the script, it started working.
+
+Sunday: Not a lot of time today but I want to add a score system so that every successful delivery updates the score. I also want to add a timer so that each delivery has to be completed within a certain amount of time. At first the timer was just a text (countdown 10,9,8,etc.), but I decided to change it to a bar instead because it feels more visual and easier to read during gameplay. Setting up the timer bar was a little confusing at first, especially because I had to understand how UI images and fill types work, but once I got the correct sprite and fill settings, it worked. I also had a small issue with the UI text disappearing when I changed the game window size. I learned that this was because of the anchors, so I fixed the UI by anchoring it properly and using the canvas scaler. 
+
+Monday: Quick play around, I realized it still did not really feel like a food delivery game yet. Maybe its because I don't have a map yet but lets just say I do for now.
+
+What if i make it more complex. 
+The Delivery system.
+
+A pick up point?
+for each delivery? or just for the start
+  - each deliver would be much more complex i think
+  - but it would feel more complete and more tense
+  - just for the start would be good also since its easier and still feels like a delivery game.
+
+
+Wednesday:
+Final decision...
+
+So I added a restaurant pickup point. Now the player has to first go to the restaurant, pick up the food, and only then does the random delivery marker appear. Once the delivery is completed, the player has to go back to the restaurant again before doing the next one. This makes the gameplay feel much more complete and more like an actual delivery game instead of just chasing random points around the map. I also added an objective at the bottom of the map to show whether the player should go to the restaurant or deliver the food.
+
+
