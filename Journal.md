@@ -139,7 +139,9 @@ I saw in a video that we can import tilesets and make each tile react differentl
 
 Overall, the prototype feels like it is coming together, and it has some sort of vision coming to life.
 
-For this journal,
+### Week 12-13
+
+## Overview
 
 This week, I kept building the prototype for my top-down pixel art delivery game. The main thing I want to work on this week is try and create a working delivery system and starting to figure out how I want to implement the police spotlight. I wanted to make a npc police system but for the timeframe that I have, I quickly realized that it wouldn't be possible.
 
