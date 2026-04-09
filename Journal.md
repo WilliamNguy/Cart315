@@ -185,4 +185,7 @@ Overall, the prototype now feels much closer to a real finished project. The spo
 
 Wednesday: I replaced my texting sprite (player) for a real sprite. The Idea was to make a 16 by 16 bicycle delivery guy sprite but due to the limited time that I have I realized that it might me a little unrealistic to make it. I wanted the sprite to have all 8 directions/angles. meaning I would have to draw all 8 angles. Too long so I downloaded a free sprite on itch.io. So for now we will use that. I ran into probably the worst issue possible. I animated everything but for some reason my movements are not working. All the components were added on to the new sprite. everything was dragged into the right spot but for some reason, no movement. After countless youtube videos and reddit, I found out that the problem is because of my animations. I animated the sprites using the timestamps and accidently locked in the location into the animation. so whenever I move the player, the animation would always be locked on that location. the sprite would just look at the direction I'm pointing at but not mmove at all. It was a stupid issue but I'm glad I found it and will think twice when animating something.
 
+<img src="images/g1.png" width="250">
+<img src="images/g2.png" width="250">
+<img src="images/g3.png" width="250">
 
