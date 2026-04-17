@@ -190,7 +190,10 @@ Wednesday: I replaced my texting sprite (player) for a real sprite. The Idea was
 <img src="images/g3.png" width="250">
 
 ### Final Week
-## Playtest
+
+## Playtest 
+
+Github to my game: https://github.com/WilliamNguy/Cart315/tree/main/projects/TopDownView
 
 Thursday: Today was playtesting day. It was really fun to go around the class and try people's game. Although the games were fun, listening to my classmates talk about their games was the most interesting part for me. There's just something so fun about listening to someone explain their ideation and thought process while making their game as you are playing THEIR game. What's the initial idea? How did it lead to this? What inspired them? Hearing about their struggles or ideas that didn't make it to the playtest in time makes their game feel more alive and real. I also learned alot from just looking at people play other peoples game. Ideas that I would have never thought of came to life that day. 
 
